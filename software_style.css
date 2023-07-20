@@ -324,10 +324,9 @@ canvas {
 
 .sub-container {
   width: 100%;
-  margin: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3em
+  max-width: 350px;
+  margin: 0 auto;
+  display: block;
 }
 .sub-container input {
   display: flex;

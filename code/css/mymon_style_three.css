@@ -243,9 +243,11 @@ p {
   }
 }
 
+.message{
+  padding: 18px;
+}
+
 .glow {
-	
-	position: ;
 	
 	background: linear-gradient(140deg, #0ff, #db0246, #ffcc00, #0ff);
 	-webkit-background-clip: text;
