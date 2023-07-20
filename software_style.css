@@ -832,4 +832,10 @@ canvas {
 ::-webkit-scrollbar-thumb {
   background: var(--scrollbar);
   border-radius: 10px;
-}/*# sourceMappingURL=style.css.map */
+}
+
+#chatLog{
+color: var(--inputColor);
+}
+
+/*# sourceMappingURL=style.css.map */
